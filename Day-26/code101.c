@@ -6,7 +6,7 @@ int main(){
 }
 void quiz(){
     int ans , score = 0;
-    prinf("====QUIZ APPLICATION\n");
+    printf("====QUIZ APPLICATION\n");
     printf("what is the capital of india?:\n");
     printf("1.delhi.\n2.mumbai.\n3.kolkata\n");
     printf("enter your answer:\n");
